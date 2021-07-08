@@ -1,0 +1,20 @@
+Format: 1.8
+Date: Thu, 8 Jul 2021 15:38:39 +0000
+Source: project2-web
+Binary: project2-web
+Architecture: all
+Version: 1.0~root
+Distribution: unknown
+Urgency: low
+Maintainer: daniel@solong.co.uk
+Changed-By: daniel@solong.co.uk
+Description:
+ project2-web - [[description]]
+Changes:
+ project2-web (1.0~root) unknown; urgency=low
+Checksums-Sha1:
+ 7b125b7776acd53b40050d55f60da69f395d0cd9 6804 project2-web.deb
+Checksums-Sha256:
+ a65c9b43902fe8be998c9823c272d4477fd612ce78e75168fcd703a481e0e5ed 6804 project2-web.deb
+Files:
+ 0e1094b39451847f6f72667965a10ac9 6804 misc low project2-web.deb
